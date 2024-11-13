@@ -1,7 +1,7 @@
 👋 Hello, World! I'm Rabins Walterraj
 
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/rabinswalterraj/)
+[![LinkedIn](https://toppng.com/uploads/preview/linkedin-logo-png-file-11660255256jvq09sv8zd.png)](https://www.linkedin.com/in/rabinswalterraj/)
 
 "Code with passion, deliver with precision."
 
