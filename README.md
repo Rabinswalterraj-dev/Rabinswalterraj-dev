@@ -1,6 +1,11 @@
 👋 Hello, World! I'm Rabins Walterraj
-
-<h1 class="blinking">Blinking Name</h1>
+<h1 style="
+  background: linear-gradient(to right, red, orange, yellow, green, blue);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+">
+  Rabins Walterraj
+</h1>
 
 "Code with passion, deliver with precision."
 
