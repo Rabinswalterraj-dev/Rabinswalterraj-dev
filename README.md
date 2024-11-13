@@ -4,8 +4,8 @@
 <h2>🌟 About Me</h2>
 <p>Hi! I'm Rabins Walterraj, a Fullstack Developer with 4.5 years of experience in building seamless and scalable web applications. I specialize in both frontend and backend development, ensuring the code I write is elegant, efficient, and scalable.</p>
 
-<p>🏡 <strong>Location:</strong> [Your City/Country]<br>
-🎓 <strong>Education:</strong> [Your Degree or Relevant Certifications]<br>
+<p>🏡 <strong>Location:</strong> Kallakurichi<br>
+🎓 <strong>Education:</strong> MCA<br>
 💻 <strong>Tech Stack:</strong> HTML, CSS, JavaScript, React, Node.js, MySQL, PostgreSQL, PHP, Laravel, WordPress<br>
 🌱 <strong>Currently exploring:</strong> Advanced Node.js techniques and headless CMS integrations.</p>
 
