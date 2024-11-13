@@ -1,6 +1,19 @@
 👋 Hello, World! I'm Rabins Walterraj
+<style>
+  .blinking {
+    animation: blink 1s infinite;
+  }
 
-<img src="https://toppng.com/uploads/preview/linkedin-logo-png-file-11660255256jvq09sv8zd.png" alt="Alt text" width="100" height="100">
+  @keyframes blink {
+    0% { color: red; }
+    25% { color: orange; }
+    50% { color: yellow; }
+    75% { color: green; }
+    100% { color: blue; }
+  }
+</style>
+
+<h1 class="blinking">Blinking Name</h1>
 
 "Code with passion, deliver with precision."
 
