@@ -1,4 +1,4 @@
-#👋 Hello, World! I'm Rabins Walterraj
+👋 Hello, World! I'm Rabins Walterraj
 
 "Code with passion, deliver with precision."
 
