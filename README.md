@@ -1,17 +1,4 @@
 👋 Hello, World! I'm Rabins Walterraj
-<style>
-  .blinking {
-    animation: blink 1s infinite;
-  }
-
-  @keyframes blink {
-    0% { color: red; }
-    25% { color: orange; }
-    50% { color: yellow; }
-    75% { color: green; }
-    100% { color: blue; }
-  }
-</style>
 
 <h1 class="blinking">Blinking Name</h1>
 
