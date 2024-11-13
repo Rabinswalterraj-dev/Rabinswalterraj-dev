@@ -1,8 +1,7 @@
 👋 Hello, World! I'm Rabins Walterraj
 
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/rabinswalterraj/)
 
 "Code with passion, deliver with precision."
 
