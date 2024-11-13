@@ -18,7 +18,7 @@
   <li><strong>Frontend Development</strong>
     <ul>
       <li><strong>Languages:</strong> HTML, CSS, JavaScript</li>
-      <li><strong>Frameworks/Libraries:</strong> React.js</li>
+      <li><strong>Frameworks/Libraries:</strong> React.js, Next js</li>
       <li><strong>Design Principles:</strong> Responsive Design, Cross-Browser Compatibility</li>
     </ul>
   </li>
