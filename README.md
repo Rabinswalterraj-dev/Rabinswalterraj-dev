@@ -1,6 +1,6 @@
 👋 Hello, World! I'm Rabins Walterraj
 
-<img src="[image-link-url](https://toppng.com/uploads/preview/linkedin-logo-png-file-11660255256jvq09sv8zd.png)" alt="Alt text" width="600" height="400">
+<img src="https://toppng.com/uploads/preview/linkedin-logo-png-file-11660255256jvq09sv8zd.png" alt="Alt text" width="600" height="400">
 
 "Code with passion, deliver with precision."
 
